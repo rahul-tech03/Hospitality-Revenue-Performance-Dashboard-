@@ -1,8 +1,8 @@
-# 🏨 AtliQ Hospitality Revenue & Performance Analytics Dashboard
+# 🏨 Hospitality Revenue & Performance Analytics Dashboard
 
 ## 📊 Project Overview
 
-This project focuses on analyzing hotel booking and revenue data to understand the overall business performance of AtliQ Hospitality.
+This project focuses on analyzing hotel booking and revenue data to understand the overall business performance of AtliQ Hospitality Business.
 
 The project uses **Power BI, Power Query, DAX, and data modeling** to transform raw hospitality booking data into interactive dashboards for analyzing:
 
@@ -27,7 +27,7 @@ The main objective was to convert raw booking data into meaningful business insi
 
 # 🎯 Business Problem
 
-AtliQ Hospitality has booking and hotel performance data spread across multiple tables containing information about:
+Hospitality Business has booking and hotel performance data spread across multiple tables containing information about:
 
 - Hotels and properties
 - Cities and hotel categories
